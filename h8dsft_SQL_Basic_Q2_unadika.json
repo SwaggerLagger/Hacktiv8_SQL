@@ -1,0 +1,3070 @@
+[{
+  "trip_id": "1208506",
+  "start_date": "2016-05-19 18:16:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Sequoia Hospital",
+  "start_station_id": "21",
+  "station_id": "21",
+  "name": "Franklin at Maple",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1148230",
+  "start_date": "2016-04-04 13:28:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Sequoia Hospital",
+  "start_station_id": "21",
+  "station_id": "21",
+  "name": "Franklin at Maple",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1250014",
+  "start_date": "2016-06-22 09:17:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1176030",
+  "start_date": "2016-04-25 17:10:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1198741",
+  "start_date": "2016-05-12 16:31:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1198125",
+  "start_date": "2016-05-12 09:47:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1193852",
+  "start_date": "2016-05-10 06:46:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1167527",
+  "start_date": "2016-04-19 08:42:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "San Mateo County Center",
+  "start_station_id": "23",
+  "station_id": "23",
+  "name": "San Mateo County Center",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1225256",
+  "start_date": "2016-06-03 08:31:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "San Mateo County Center",
+  "start_station_id": "23",
+  "station_id": "23",
+  "name": "San Mateo County Center",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1186593",
+  "start_date": "2016-05-03 17:46:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Public Library",
+  "start_station_id": "24",
+  "station_id": "24",
+  "name": "Redwood City Public Library",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1201515",
+  "start_date": "2016-05-15 10:18:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Public Library",
+  "start_station_id": "24",
+  "station_id": "24",
+  "name": "Redwood City Public Library",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1153577",
+  "start_date": "2016-04-07 17:12:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1182521",
+  "start_date": "2016-04-29 17:09:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1179406",
+  "start_date": "2016-04-27 17:16:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1163852",
+  "start_date": "2016-04-15 16:34:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1188165",
+  "start_date": "2016-05-04 17:14:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1162391",
+  "start_date": "2016-04-14 17:11:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1177736",
+  "start_date": "2016-04-26 17:14:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1155081",
+  "start_date": "2016-04-08 17:14:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1146137",
+  "start_date": "2016-04-01 16:43:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1191136",
+  "start_date": "2016-05-06 16:49:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1172223",
+  "start_date": "2016-04-21 17:08:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1158872",
+  "start_date": "2016-04-12 17:14:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1166453",
+  "start_date": "2016-04-18 17:11:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1176033",
+  "start_date": "2016-04-25 17:11:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1150261",
+  "start_date": "2016-04-05 17:13:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1151909",
+  "start_date": "2016-04-06 17:10:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1184800",
+  "start_date": "2016-05-02 17:12:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1168776",
+  "start_date": "2016-04-19 17:11:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1180986",
+  "start_date": "2016-04-28 17:13:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1148593",
+  "start_date": "2016-04-04 17:07:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1189842",
+  "start_date": "2016-05-05 17:17:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1186478",
+  "start_date": "2016-05-03 17:12:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1160718",
+  "start_date": "2016-04-13 17:12:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1234046",
+  "start_date": "2016-06-09 18:11:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1187908",
+  "start_date": "2016-05-04 15:31:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1225040",
+  "start_date": "2016-06-03 07:23:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1175964",
+  "start_date": "2016-04-25 16:57:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1221466",
+  "start_date": "2016-05-31 18:12:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1161553",
+  "start_date": "2016-04-14 08:23:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1224105",
+  "start_date": "2016-06-02 12:35:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1170412",
+  "start_date": "2016-04-20 16:24:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1148464",
+  "start_date": "2016-04-04 16:29:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1168599",
+  "start_date": "2016-04-19 16:27:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1172073",
+  "start_date": "2016-04-21 16:27:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1206447",
+  "start_date": "2016-05-18 16:27:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1202920",
+  "start_date": "2016-05-16 16:24:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1166303",
+  "start_date": "2016-04-18 16:28:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1235334",
+  "start_date": "2016-06-10 16:32:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1250553",
+  "start_date": "2016-06-22 16:24:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1194951",
+  "start_date": "2016-05-10 16:27:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1221083",
+  "start_date": "2016-05-31 16:29:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1160556",
+  "start_date": "2016-04-13 16:28:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1200465",
+  "start_date": "2016-05-13 16:25:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1218356",
+  "start_date": "2016-05-27 16:27:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1184639",
+  "start_date": "2016-05-02 16:27:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1158738",
+  "start_date": "2016-04-12 16:28:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1242809",
+  "start_date": "2016-06-16 13:14:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1261233",
+  "start_date": "2016-06-30 14:41:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1246779",
+  "start_date": "2016-06-20 12:11:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1235076",
+  "start_date": "2016-06-10 13:13:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1237475",
+  "start_date": "2016-06-13 11:45:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1218359",
+  "start_date": "2016-05-27 16:27:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1221081",
+  "start_date": "2016-05-31 16:28:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1148465",
+  "start_date": "2016-04-04 16:29:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1198665",
+  "start_date": "2016-05-12 16:08:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1204663",
+  "start_date": "2016-05-17 16:09:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1216920",
+  "start_date": "2016-05-26 16:55:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1162193",
+  "start_date": "2016-04-14 16:09:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1215200",
+  "start_date": "2016-05-25 16:07:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1168603",
+  "start_date": "2016-04-19 16:29:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1175856",
+  "start_date": "2016-04-25 16:07:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1156921",
+  "start_date": "2016-04-11 16:27:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1185886",
+  "start_date": "2016-05-03 09:55:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1149729",
+  "start_date": "2016-04-05 10:16:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1210088",
+  "start_date": "2016-05-20 19:18:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Kaiser Hospital",
+  "start_station_id": "26",
+  "station_id": "26",
+  "name": "Redwood City Medical Center",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1212092",
+  "start_date": "2016-05-23 17:08:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Kaiser Hospital",
+  "start_station_id": "26",
+  "station_id": "26",
+  "name": "Redwood City Medical Center",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1148855",
+  "start_date": "2016-04-04 18:13:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Kaiser Hospital",
+  "start_station_id": "26",
+  "station_id": "26",
+  "name": "Redwood City Medical Center",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1243196",
+  "start_date": "2016-06-16 17:14:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Kaiser Hospital",
+  "start_station_id": "26",
+  "station_id": "26",
+  "name": "Redwood City Medical Center",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1166460",
+  "start_date": "2016-04-18 17:13:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Kaiser Hospital",
+  "start_station_id": "26",
+  "station_id": "26",
+  "name": "Redwood City Medical Center",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1215367",
+  "start_date": "2016-05-25 17:11:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Kaiser Hospital",
+  "start_station_id": "26",
+  "station_id": "26",
+  "name": "Redwood City Medical Center",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1157388",
+  "start_date": "2016-04-11 18:11:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Kaiser Hospital",
+  "start_station_id": "26",
+  "station_id": "26",
+  "name": "Redwood City Medical Center",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1216997",
+  "start_date": "2016-05-26 17:14:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Kaiser Hospital",
+  "start_station_id": "26",
+  "station_id": "26",
+  "name": "Redwood City Medical Center",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1238093",
+  "start_date": "2016-06-13 17:50:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Kaiser Hospital",
+  "start_station_id": "26",
+  "station_id": "26",
+  "name": "Redwood City Medical Center",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1155077",
+  "start_date": "2016-04-08 17:11:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Kaiser Hospital",
+  "start_station_id": "26",
+  "station_id": "26",
+  "name": "Redwood City Medical Center",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1163983",
+  "start_date": "2016-04-15 17:16:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Kaiser Hospital",
+  "start_station_id": "26",
+  "station_id": "26",
+  "name": "Redwood City Medical Center",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1162403",
+  "start_date": "2016-04-14 17:15:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Kaiser Hospital",
+  "start_station_id": "26",
+  "station_id": "26",
+  "name": "Redwood City Medical Center",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1233860",
+  "start_date": "2016-06-09 17:17:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Kaiser Hospital",
+  "start_station_id": "26",
+  "station_id": "26",
+  "name": "Redwood City Medical Center",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1173805",
+  "start_date": "2016-04-22 18:17:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Kaiser Hospital",
+  "start_station_id": "26",
+  "station_id": "26",
+  "name": "Redwood City Medical Center",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1228690",
+  "start_date": "2016-06-06 17:12:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Kaiser Hospital",
+  "start_station_id": "26",
+  "station_id": "26",
+  "name": "Redwood City Medical Center",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1213732",
+  "start_date": "2016-05-24 17:11:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Kaiser Hospital",
+  "start_station_id": "26",
+  "station_id": "26",
+  "name": "Redwood City Medical Center",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1151919",
+  "start_date": "2016-04-06 17:13:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Kaiser Hospital",
+  "start_station_id": "26",
+  "station_id": "26",
+  "name": "Redwood City Medical Center",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1170589",
+  "start_date": "2016-04-20 17:13:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Kaiser Hospital",
+  "start_station_id": "26",
+  "station_id": "26",
+  "name": "Redwood City Medical Center",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1239941",
+  "start_date": "2016-06-14 18:12:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Kaiser Hospital",
+  "start_station_id": "26",
+  "station_id": "26",
+  "name": "Redwood City Medical Center",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1179394",
+  "start_date": "2016-04-27 17:13:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Kaiser Hospital",
+  "start_station_id": "26",
+  "station_id": "26",
+  "name": "Redwood City Medical Center",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1172429",
+  "start_date": "2016-04-21 18:11:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Kaiser Hospital",
+  "start_station_id": "26",
+  "station_id": "26",
+  "name": "Redwood City Medical Center",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1146254",
+  "start_date": "2016-04-01 17:20:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Kaiser Hospital",
+  "start_station_id": "26",
+  "station_id": "26",
+  "name": "Redwood City Medical Center",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1160721",
+  "start_date": "2016-04-13 17:13:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Kaiser Hospital",
+  "start_station_id": "26",
+  "station_id": "26",
+  "name": "Redwood City Medical Center",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1258107",
+  "start_date": "2016-06-28 17:13:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Kaiser Hospital",
+  "start_station_id": "26",
+  "station_id": "26",
+  "name": "Redwood City Medical Center",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1153584",
+  "start_date": "2016-04-07 17:15:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Kaiser Hospital",
+  "start_station_id": "26",
+  "station_id": "26",
+  "name": "Redwood City Medical Center",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1177726",
+  "start_date": "2016-04-26 17:12:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Kaiser Hospital",
+  "start_station_id": "26",
+  "station_id": "26",
+  "name": "Redwood City Medical Center",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1256469",
+  "start_date": "2016-06-27 17:17:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Kaiser Hospital",
+  "start_station_id": "26",
+  "station_id": "26",
+  "name": "Redwood City Medical Center",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1241464",
+  "start_date": "2016-06-15 17:12:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Kaiser Hospital",
+  "start_station_id": "26",
+  "station_id": "26",
+  "name": "Redwood City Medical Center",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1261494",
+  "start_date": "2016-06-30 17:09:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Kaiser Hospital",
+  "start_station_id": "26",
+  "station_id": "26",
+  "name": "Redwood City Medical Center",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1252341",
+  "start_date": "2016-06-23 17:13:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Kaiser Hospital",
+  "start_station_id": "26",
+  "station_id": "26",
+  "name": "Redwood City Medical Center",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1222872",
+  "start_date": "2016-06-01 17:18:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Kaiser Hospital",
+  "start_station_id": "26",
+  "station_id": "26",
+  "name": "Redwood City Medical Center",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1250723",
+  "start_date": "2016-06-22 17:11:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Kaiser Hospital",
+  "start_station_id": "26",
+  "station_id": "26",
+  "name": "Redwood City Medical Center",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1248965",
+  "start_date": "2016-06-21 17:02:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Kaiser Hospital",
+  "start_station_id": "26",
+  "station_id": "26",
+  "name": "Redwood City Medical Center",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1242626",
+  "start_date": "2016-06-16 10:50:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Kaiser Hospital",
+  "start_station_id": "26",
+  "station_id": "26",
+  "name": "Redwood City Medical Center",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1233923",
+  "start_date": "2016-06-09 17:36:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Kaiser Hospital",
+  "start_station_id": "26",
+  "station_id": "26",
+  "name": "Redwood City Medical Center",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1244022",
+  "start_date": "2016-06-17 08:44:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Mezes",
+  "start_station_id": "83",
+  "station_id": "83",
+  "name": "Mezes Park",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1208958",
+  "start_date": "2016-05-20 08:19:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Mezes",
+  "start_station_id": "83",
+  "station_id": "83",
+  "name": "Mezes Park",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1205729",
+  "start_date": "2016-05-18 08:16:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Mezes",
+  "start_station_id": "83",
+  "station_id": "83",
+  "name": "Mezes Park",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1199703",
+  "start_date": "2016-05-13 08:19:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Mezes",
+  "start_station_id": "83",
+  "station_id": "83",
+  "name": "Mezes Park",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1161537",
+  "start_date": "2016-04-14 08:16:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Mezes",
+  "start_station_id": "83",
+  "station_id": "83",
+  "name": "Mezes Park",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1154335",
+  "start_date": "2016-04-08 08:21:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Mezes",
+  "start_station_id": "83",
+  "station_id": "83",
+  "name": "Mezes Park",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1152679",
+  "start_date": "2016-04-07 08:14:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Mezes",
+  "start_station_id": "83",
+  "station_id": "83",
+  "name": "Mezes Park",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1181680",
+  "start_date": "2016-04-29 08:17:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Mezes",
+  "start_station_id": "83",
+  "station_id": "83",
+  "name": "Mezes Park",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1219023",
+  "start_date": "2016-05-28 15:31:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Mezes",
+  "start_station_id": "83",
+  "station_id": "83",
+  "name": "Mezes Park",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1202232",
+  "start_date": "2016-05-16 08:23:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Mezes",
+  "start_station_id": "83",
+  "station_id": "83",
+  "name": "Mezes Park",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1147651",
+  "start_date": "2016-04-04 08:19:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Mezes",
+  "start_station_id": "83",
+  "station_id": "83",
+  "name": "Mezes Park",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1194098",
+  "start_date": "2016-05-10 08:13:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Mezes",
+  "start_station_id": "83",
+  "station_id": "83",
+  "name": "Mezes Park",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1176828",
+  "start_date": "2016-04-26 08:16:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Mezes",
+  "start_station_id": "83",
+  "station_id": "83",
+  "name": "Mezes Park",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1212819",
+  "start_date": "2016-05-24 08:15:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Mezes",
+  "start_station_id": "83",
+  "station_id": "83",
+  "name": "Mezes Park",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1203896",
+  "start_date": "2016-05-17 08:21:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Mezes",
+  "start_station_id": "83",
+  "station_id": "83",
+  "name": "Mezes Park",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1165513",
+  "start_date": "2016-04-18 08:20:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Mezes",
+  "start_station_id": "83",
+  "station_id": "83",
+  "name": "Mezes Park",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1190492",
+  "start_date": "2016-05-06 08:16:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Mezes",
+  "start_station_id": "83",
+  "station_id": "83",
+  "name": "Mezes Park",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1163118",
+  "start_date": "2016-04-15 08:15:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Mezes",
+  "start_station_id": "83",
+  "station_id": "83",
+  "name": "Mezes Park",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1192427",
+  "start_date": "2016-05-09 08:19:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Mezes",
+  "start_station_id": "83",
+  "station_id": "83",
+  "name": "Mezes Park",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1158004",
+  "start_date": "2016-04-12 08:21:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Mezes",
+  "start_station_id": "83",
+  "station_id": "83",
+  "name": "Mezes Park",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1145482",
+  "start_date": "2016-04-01 08:16:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Mezes",
+  "start_station_id": "83",
+  "station_id": "83",
+  "name": "Mezes Park",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1156231",
+  "start_date": "2016-04-11 08:17:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Mezes",
+  "start_station_id": "83",
+  "station_id": "83",
+  "name": "Mezes Park",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1199751",
+  "start_date": "2016-05-13 08:32:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1168444",
+  "start_date": "2016-04-19 15:00:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1193935",
+  "start_date": "2016-05-10 07:22:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1224929",
+  "start_date": "2016-06-02 23:32:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1211624",
+  "start_date": "2016-05-23 10:51:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "San Mateo County Center",
+  "start_station_id": "23",
+  "station_id": "23",
+  "name": "San Mateo County Center",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1171231",
+  "start_date": "2016-04-21 07:36:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "San Mateo County Center",
+  "start_station_id": "23",
+  "station_id": "23",
+  "name": "San Mateo County Center",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1167848",
+  "start_date": "2016-04-19 09:52:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "San Mateo County Center",
+  "start_station_id": "23",
+  "station_id": "23",
+  "name": "San Mateo County Center",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1170192",
+  "start_date": "2016-04-20 13:12:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Public Library",
+  "start_station_id": "24",
+  "station_id": "24",
+  "name": "Redwood City Public Library",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1206285",
+  "start_date": "2016-05-18 13:10:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Public Library",
+  "start_station_id": "24",
+  "station_id": "24",
+  "name": "Redwood City Public Library",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1224496",
+  "start_date": "2016-06-02 17:14:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1181291",
+  "start_date": "2016-04-28 19:03:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1197164",
+  "start_date": "2016-05-11 18:09:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1155332",
+  "start_date": "2016-04-08 19:05:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1152233",
+  "start_date": "2016-04-06 19:06:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1172378",
+  "start_date": "2016-04-21 17:57:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1150464",
+  "start_date": "2016-04-05 18:12:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1161076",
+  "start_date": "2016-04-13 19:05:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1188000",
+  "start_date": "2016-05-04 16:27:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1200852",
+  "start_date": "2016-05-13 18:37:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1218645",
+  "start_date": "2016-05-27 18:33:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1217260",
+  "start_date": "2016-05-26 19:06:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1195325",
+  "start_date": "2016-05-10 18:04:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1172507",
+  "start_date": "2016-04-21 18:41:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1199204",
+  "start_date": "2016-05-12 18:36:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1198731",
+  "start_date": "2016-05-12 16:28:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1153600",
+  "start_date": "2016-04-07 17:18:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1178059",
+  "start_date": "2016-04-26 18:47:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Kaiser Hospital",
+  "start_station_id": "26",
+  "station_id": "26",
+  "name": "Redwood City Medical Center",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1226180",
+  "start_date": "2016-06-03 17:34:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Kaiser Hospital",
+  "start_station_id": "26",
+  "station_id": "26",
+  "name": "Redwood City Medical Center",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1160788",
+  "start_date": "2016-04-13 17:29:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Kaiser Hospital",
+  "start_station_id": "26",
+  "station_id": "26",
+  "name": "Redwood City Medical Center",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1226888",
+  "start_date": "2016-06-04 16:22:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Kaiser Hospital",
+  "start_station_id": "26",
+  "station_id": "26",
+  "name": "Redwood City Medical Center",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1201059",
+  "start_date": "2016-05-14 11:26:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1173138",
+  "start_date": "2016-04-22 09:31:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1192055",
+  "start_date": "2016-05-08 18:11:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1190080",
+  "start_date": "2016-05-05 18:35:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1220838",
+  "start_date": "2016-05-31 12:57:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1206218",
+  "start_date": "2016-05-18 12:04:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "San Mateo County Center",
+  "start_station_id": "23",
+  "station_id": "23",
+  "name": "San Mateo County Center",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1170116",
+  "start_date": "2016-04-20 12:03:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "San Mateo County Center",
+  "start_station_id": "23",
+  "station_id": "23",
+  "name": "San Mateo County Center",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1174365",
+  "start_date": "2016-04-24 00:00:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Kaiser Hospital",
+  "start_station_id": "26",
+  "station_id": "26",
+  "name": "Redwood City Medical Center",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1150961",
+  "start_date": "2016-04-06 07:57:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1175036",
+  "start_date": "2016-04-25 08:01:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1149273",
+  "start_date": "2016-04-05 07:57:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1157905",
+  "start_date": "2016-04-12 07:57:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1180019",
+  "start_date": "2016-04-28 07:56:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1257074",
+  "start_date": "2016-06-28 07:33:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1149381",
+  "start_date": "2016-04-05 08:26:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1216150",
+  "start_date": "2016-05-26 08:32:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1192478",
+  "start_date": "2016-05-09 08:32:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1176731",
+  "start_date": "2016-04-26 07:58:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1250024",
+  "start_date": "2016-06-22 09:19:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1206425",
+  "start_date": "2016-05-18 16:14:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1163060",
+  "start_date": "2016-04-15 07:55:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1181605",
+  "start_date": "2016-04-29 07:59:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1152611",
+  "start_date": "2016-04-07 07:58:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1185475",
+  "start_date": "2016-05-03 07:57:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1187157",
+  "start_date": "2016-05-04 07:58:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1251345",
+  "start_date": "2016-06-23 07:49:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1255567",
+  "start_date": "2016-06-27 08:32:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1253059",
+  "start_date": "2016-06-24 08:31:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1154268",
+  "start_date": "2016-04-08 08:00:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1161457",
+  "start_date": "2016-04-14 07:56:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1248319",
+  "start_date": "2016-06-21 09:27:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1178411",
+  "start_date": "2016-04-27 07:58:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1147566",
+  "start_date": "2016-04-04 07:58:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1167313",
+  "start_date": "2016-04-19 08:06:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1171292",
+  "start_date": "2016-04-21 07:57:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1159592",
+  "start_date": "2016-04-13 08:20:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1156068",
+  "start_date": "2016-04-11 07:34:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1223624",
+  "start_date": "2016-06-02 08:24:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1183792",
+  "start_date": "2016-05-02 08:00:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1145431",
+  "start_date": "2016-04-01 07:57:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1188835",
+  "start_date": "2016-05-05 07:56:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1190445",
+  "start_date": "2016-05-06 07:59:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1180174",
+  "start_date": "2016-04-28 08:43:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1194236",
+  "start_date": "2016-05-10 08:47:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1243993",
+  "start_date": "2016-06-17 08:32:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1165439",
+  "start_date": "2016-04-18 08:04:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1211500",
+  "start_date": "2016-05-23 09:45:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1187797",
+  "start_date": "2016-05-04 12:55:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1179223",
+  "start_date": "2016-04-27 16:23:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1225035",
+  "start_date": "2016-06-03 07:16:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1179889",
+  "start_date": "2016-04-28 06:48:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1246031",
+  "start_date": "2016-06-20 06:20:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1251183",
+  "start_date": "2016-06-23 06:16:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1174857",
+  "start_date": "2016-04-25 06:17:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1193870",
+  "start_date": "2016-05-10 06:50:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1192263",
+  "start_date": "2016-05-09 07:31:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1161369",
+  "start_date": "2016-04-14 07:20:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1220022",
+  "start_date": "2016-05-31 06:48:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1176564",
+  "start_date": "2016-04-26 06:47:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1178287",
+  "start_date": "2016-04-27 06:50:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1197542",
+  "start_date": "2016-05-12 07:32:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1152517",
+  "start_date": "2016-04-07 07:31:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1197511",
+  "start_date": "2016-05-12 07:21:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1236830",
+  "start_date": "2016-06-13 07:33:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1199582",
+  "start_date": "2016-05-13 07:33:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1193959",
+  "start_date": "2016-05-10 07:33:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1171232",
+  "start_date": "2016-04-21 07:37:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1227513",
+  "start_date": "2016-06-06 07:32:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1251307",
+  "start_date": "2016-06-23 07:33:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1169450",
+  "start_date": "2016-04-20 07:33:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1203674",
+  "start_date": "2016-05-17 07:33:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1249602",
+  "start_date": "2016-06-22 07:22:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1188771",
+  "start_date": "2016-05-05 07:31:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1247818",
+  "start_date": "2016-06-21 07:21:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1217503",
+  "start_date": "2016-05-27 07:22:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1167162",
+  "start_date": "2016-04-19 07:32:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1225056",
+  "start_date": "2016-06-03 07:33:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1205547",
+  "start_date": "2016-05-18 07:33:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1234432",
+  "start_date": "2016-06-10 07:34:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1161373",
+  "start_date": "2016-04-14 07:22:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1159496",
+  "start_date": "2016-04-13 07:35:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1237277",
+  "start_date": "2016-06-13 09:24:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1234993",
+  "start_date": "2016-06-10 11:56:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1242631",
+  "start_date": "2016-06-16 10:55:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1246606",
+  "start_date": "2016-06-20 09:32:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1261154",
+  "start_date": "2016-06-30 12:51:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1236832",
+  "start_date": "2016-06-13 07:33:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1167160",
+  "start_date": "2016-04-19 07:32:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1242078",
+  "start_date": "2016-06-16 07:31:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1215846",
+  "start_date": "2016-05-26 06:49:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1232754",
+  "start_date": "2016-06-09 07:37:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1243794",
+  "start_date": "2016-06-17 07:20:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1181533",
+  "start_date": "2016-04-29 07:32:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1234430",
+  "start_date": "2016-06-10 07:33:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1229341",
+  "start_date": "2016-06-07 07:33:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1199581",
+  "start_date": "2016-05-13 07:33:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1203673",
+  "start_date": "2016-05-17 07:33:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1251306",
+  "start_date": "2016-06-23 07:32:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1195738",
+  "start_date": "2016-05-11 07:15:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1171233",
+  "start_date": "2016-04-21 07:37:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1176644",
+  "start_date": "2016-04-26 07:34:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1174941",
+  "start_date": "2016-04-25 07:22:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1197729",
+  "start_date": "2016-05-12 08:19:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1202018",
+  "start_date": "2016-05-16 07:21:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1214272",
+  "start_date": "2016-05-25 07:21:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1161372",
+  "start_date": "2016-04-14 07:21:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1167158",
+  "start_date": "2016-04-19 07:31:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1156064",
+  "start_date": "2016-04-11 07:31:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1203671",
+  "start_date": "2016-05-17 07:32:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1215915",
+  "start_date": "2016-05-26 07:20:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1152723",
+  "start_date": "2016-04-07 08:26:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1199775",
+  "start_date": "2016-05-13 08:39:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "San Mateo County Center",
+  "start_station_id": "23",
+  "station_id": "23",
+  "name": "San Mateo County Center",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1178986",
+  "start_date": "2016-04-27 12:52:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1237521",
+  "start_date": "2016-06-13 12:40:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1211622",
+  "start_date": "2016-05-23 10:47:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1152880",
+  "start_date": "2016-04-07 09:06:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1159992",
+  "start_date": "2016-04-13 09:53:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1227998",
+  "start_date": "2016-06-06 09:30:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1239021",
+  "start_date": "2016-06-14 09:32:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1145725",
+  "start_date": "2016-04-01 09:28:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1156733",
+  "start_date": "2016-04-11 12:57:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1178686",
+  "start_date": "2016-04-27 09:03:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1165908",
+  "start_date": "2016-04-18 10:38:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1148084",
+  "start_date": "2016-04-04 11:00:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1214625",
+  "start_date": "2016-05-25 08:55:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1169822",
+  "start_date": "2016-04-20 09:07:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1234797",
+  "start_date": "2016-06-10 09:29:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1250062",
+  "start_date": "2016-06-22 09:33:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1242514",
+  "start_date": "2016-06-16 09:30:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1223790",
+  "start_date": "2016-06-02 09:06:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1161704",
+  "start_date": "2016-04-14 09:02:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1177031",
+  "start_date": "2016-04-26 09:01:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1248895",
+  "start_date": "2016-06-21 16:41:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1226920",
+  "start_date": "2016-06-04 17:40:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1229042",
+  "start_date": "2016-06-06 18:51:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1221566",
+  "start_date": "2016-05-31 18:45:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1190373",
+  "start_date": "2016-05-06 07:20:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1243793",
+  "start_date": "2016-06-17 07:19:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1233620",
+  "start_date": "2016-06-09 15:53:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1193947",
+  "start_date": "2016-05-10 07:26:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "San Mateo County Center",
+  "start_station_id": "23",
+  "station_id": "23",
+  "name": "San Mateo County Center",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1177680",
+  "start_date": "2016-04-26 17:04:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1239297",
+  "start_date": "2016-06-14 12:51:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Kaiser Hospital",
+  "start_station_id": "26",
+  "station_id": "26",
+  "name": "Redwood City Medical Center",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1233488",
+  "start_date": "2016-06-09 13:29:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Kaiser Hospital",
+  "start_station_id": "26",
+  "station_id": "26",
+  "name": "Redwood City Medical Center",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1151783",
+  "start_date": "2016-04-06 16:33:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1158766",
+  "start_date": "2016-04-12 16:46:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1162246",
+  "start_date": "2016-04-14 16:34:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1170435",
+  "start_date": "2016-04-20 16:34:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1173474",
+  "start_date": "2016-04-22 16:17:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1156950",
+  "start_date": "2016-04-11 16:34:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1172076",
+  "start_date": "2016-04-21 16:29:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1160567",
+  "start_date": "2016-04-13 16:32:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1202668",
+  "start_date": "2016-05-16 11:57:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1213934",
+  "start_date": "2016-05-24 18:07:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1212183",
+  "start_date": "2016-05-23 17:31:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1155068",
+  "start_date": "2016-04-08 17:07:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1173689",
+  "start_date": "2016-04-22 17:27:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1193423",
+  "start_date": "2016-05-09 17:31:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1151993",
+  "start_date": "2016-04-06 17:35:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1162378",
+  "start_date": "2016-04-14 17:07:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1182524",
+  "start_date": "2016-04-29 17:10:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1169080",
+  "start_date": "2016-04-19 18:28:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1153793",
+  "start_date": "2016-04-07 18:08:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1163942",
+  "start_date": "2016-04-15 17:07:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1160949",
+  "start_date": "2016-04-13 18:08:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1157361",
+  "start_date": "2016-04-11 18:07:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1172486",
+  "start_date": "2016-04-21 18:31:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1250592",
+  "start_date": "2016-06-22 16:41:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1243395",
+  "start_date": "2016-06-16 18:07:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1258393",
+  "start_date": "2016-06-28 18:38:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1252525",
+  "start_date": "2016-06-23 18:11:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1249340",
+  "start_date": "2016-06-21 18:39:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1247444",
+  "start_date": "2016-06-20 18:10:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1256768",
+  "start_date": "2016-06-27 18:40:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1254095",
+  "start_date": "2016-06-24 18:36:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Stanford in Redwood City",
+  "start_station_id": "25",
+  "station_id": "25",
+  "name": "Stanford in Redwood City",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1253950",
+  "start_date": "2016-06-24 17:32:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Kaiser Hospital",
+  "start_station_id": "26",
+  "station_id": "26",
+  "name": "Redwood City Medical Center",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1235559",
+  "start_date": "2016-06-10 17:49:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Kaiser Hospital",
+  "start_station_id": "26",
+  "station_id": "26",
+  "name": "Redwood City Medical Center",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1237930",
+  "start_date": "2016-06-13 17:08:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1254163",
+  "start_date": "2016-06-24 19:34:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}, {
+  "trip_id": "1254937",
+  "start_date": "2016-06-26 11:35:00.000000 UTC",
+  "subscriber_type": "Subscriber",
+  "start_station_name": "Redwood City Caltrain Station",
+  "start_station_id": "22",
+  "station_id": "22",
+  "name": "Redwood City Caltrain Station",
+  "landmark": "Redwood City"
+}]
